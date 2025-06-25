@@ -1,0 +1,10 @@
+var age = 30;
+var userName = "John";
+var info = "My name is ".concat(userName, " and I am ").concat(age, " years old.");
+console.log(info);
+var data = age.toString();
+var data2 = String(age);
+var data3 = "" + age;
+console.log(typeof data, data);
+console.log(typeof data2, data2);
+console.log(typeof data3, data3);
