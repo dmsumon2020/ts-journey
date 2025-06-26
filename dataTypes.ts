@@ -15,4 +15,10 @@ Function Types: Defines the type of a function.
 
 tsc --init
 
+## Utility Types
+Partial
+Required
+Readonly
+Pick
+
 */
