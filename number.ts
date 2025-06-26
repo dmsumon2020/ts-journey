@@ -15,6 +15,6 @@ console.log(hexadecimalNumber);
 console.log(binaryNumber);
 
 var item1: number = 10;
-var item2 = "20";
+var item2: number = 20;
 
 console.log(item1 + item2);

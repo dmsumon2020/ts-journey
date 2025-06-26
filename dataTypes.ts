@@ -13,4 +13,6 @@ Special Types: any, unknown, void, never
 Advanced Types: Union, Intersection, Type Alias, Enum, Literal Types
 Function Types: Defines the type of a function.
 
+tsc --init
+
 */
